@@ -1,0 +1,24 @@
+{
+  "name": "tailwindcss-document-cli",
+  "version": "1.0.0",
+  "description": "Tailwind CSS Document for CLI",
+  "author": "Pouya Saadeghi",
+  "license": "MIT",
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "document",
+    "cli",
+    "ui"
+  ],
+  "main": "./index.js",
+  "bin": {
+    "tw": "./index.js"
+  },
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "chalk-pipe": "^4.0.0",
+    "fuse.js": "^6.4.3"
+  }
+}
