@@ -2,7 +2,7 @@
 
 If you're tired of opening [tailwindcss.com](https://tailwindcss.com/) website every minute to look up for class names or available utility classes, install this package 😅
 
-[![](https://raw.githubusercontent.com/saadeghi/files/main/tailwindcss-document-cli/demo.gif)]
+![](https://raw.githubusercontent.com/saadeghi/files/main/tailwindcss-document-cli/demo.gif)
 
 ## Features
 - Search Tailwind CSS class names in your CLI
