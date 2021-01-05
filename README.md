@@ -1,6 +1,6 @@
 # Tailwind CSS Document CLI
 
-If you're tired of opening [tailwindcss.com](https://tailwindcss.com/) website every minute to look up for class names or available utility classes, install this package 😅
+If you're tired of opening [tailwindcss.com](https://tailwindcss.com/) website every minute to look up for class names or available utility values, install this package 😅
 
 ![](https://raw.githubusercontent.com/saadeghi/files/main/tailwindcss-document-cli/demo.gif)
 
