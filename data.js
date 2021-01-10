@@ -1007,11 +1007,11 @@ module.exports = [
     title: 'ring-offset-width',
     permalink: 'ring-offset-width',
     values: [
-      { name: 'ring-0' },
-      { name: 'ring-1' },
-      { name: 'ring-2' },
-      { name: 'ring-4' },
-      { name: 'ring-8' },
+      { name: 'ring-offset-0' },
+      { name: 'ring-offset-1' },
+      { name: 'ring-offset-2' },
+      { name: 'ring-offset-4' },
+      { name: 'ring-offset-8' },
     ]
   }, {
     title: 'ring-opacity',
