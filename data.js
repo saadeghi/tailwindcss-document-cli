@@ -120,8 +120,6 @@ module.exports = [
     permalink: 'z-index',
     values: [
       { name: 'z-[0|10|20|30|40|50|auto]' },
-
-
     ],
   }, {
     title: 'Flex Direction',
@@ -169,8 +167,6 @@ module.exports = [
     values: [
       { name: 'order-[1|2|3|4|5|6|7|8|9|10|11|12]' },
       { name: 'order-[first|last|none]' },
-
-
     ],
   }, {
     title: 'Grid Template Columns',
@@ -236,8 +232,6 @@ module.exports = [
       { name: 'gap-[0|1|2|3|4|5|6|8|10|12|16|20|24|32|40|48|56|64|px]' },
       { name: 'gap-x-[0|1|2|3|4|5|6|8|10|12|16|20|24|32|40|48|56|64|px]' },
       { name: 'gap-y-[0|1|2|3|4|5|6|8|10|12|16|20|24|32|40|48|56|64|px]' },
-
-
     ],
   }, {
     title: 'Justify Content',
@@ -292,8 +286,6 @@ module.exports = [
     permalink: 'place-self',
     values: [
       { name: 'place-self-[auto|start|end|center|stretch]' },
-
-
     ],
   }, {
     title: 'Padding',
@@ -314,8 +306,6 @@ module.exports = [
     values: [
       { name: 'space-[x|y]-[0|1|2|3|4|5|6|10|12|16|20|24|32|40|48|56|64|px|reverse]' },
       { name: '-space-[x|y]-[0|1|2|3|4|5|6|10|12|16|20|24|32|40|48|56|64|px]' },
-
-
     ],
   }, {
     title: 'Width',
@@ -519,8 +509,6 @@ module.exports = [
     values: [
       { name: 'break-[normal|words|all]' },
       { name: 'truncate' },
-
-
     ],
   }, {
     title: 'Background Attachment',
@@ -631,8 +619,6 @@ module.exports = [
       { name: 'to-indigo-[100|200|300|400|500|600|700|800|900]' },
       { name: 'to-purple-[100|200|300|400|500|600|700|800|900]' },
       { name: 'to-pink-[100|200|300|400|500|600|700|800|900]' },
-
-
     ],
   }, {
     title: 'Border Radius',
@@ -725,8 +711,6 @@ module.exports = [
     permalink: 'divide-style',
     values: [
       { name: 'divide-[solid|dashed|dotted|double|none]' },
-
-
     ],
   }, {
     title: 'Border Collapse',
@@ -739,8 +723,6 @@ module.exports = [
     permalink: 'table-layout',
     values: [
       { name: 'table-[auto|fixed]' },
-
-
     ],
   }, {
     title: 'Box Shadow',
@@ -754,8 +736,6 @@ module.exports = [
     permalink: 'opacity',
     values: [
       { name: 'opacity-[0|25|50|75|100]' },
-
-
     ],
   }, {
     title: 'Transition Property',
@@ -787,8 +767,6 @@ module.exports = [
     permalink: 'animation',
     values: [
       { name: 'animate-[none|spin|ping|pulse|bounce]' },
-
-
     ],
   }, {
     title: 'Scale',
@@ -873,8 +851,6 @@ module.exports = [
     permalink: 'user-select',
     values: [
       { name: 'select-[none|text|all|auto]' },
-
-
     ],
   }, {
     title: 'Fill',
@@ -893,8 +869,6 @@ module.exports = [
     permalink: 'stroke-width',
     values: [
       { name: 'stroke-[0|1|2]' },
-
-
     ],
   }, {
     title: 'Screen Readers',
