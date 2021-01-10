@@ -321,45 +321,48 @@ module.exports = [
     title: 'Width',
     permalink: 'width',
     values: [
-      { name: 'w-[0|1|2|3|4|5|6|10|12|16|20|24|32|40|48|56|64|auto|px]' },
+      { name: 'w-[0|0.5|1|1.5|2|2.5|3|3.5|4|5|6|7|8|9|10|11|12|14|16|20|24|28|32|36|40|44|48|52|56|60|64|72|80|96|px]' },
       { name: 'w-[1/2|1/3|2/3|1/4|2/4|3/4]' },
       { name: 'w-[1/5|2/5|3/5|4/5]' },
       { name: 'w-[1/6|2/6|3/6|4/6|5/6]' },
       { name: 'w-[1/12|2/12|3/12|4/12|5/12|6/12|7/12|8/12|9/12|10/12|11/12]' },
-      { name: 'w-[full|screen]' },
+      { name: 'w-[full|screen|auto]' },
     ],
   }, {
     title: 'Min-Width',
     permalink: 'min-width',
     values: [
-      { name: 'min-w-[0|full]' },
+      { name: 'min-w-[0|full|min|max]' },
     ],
   }, {
     title: 'Max-Width',
     permalink: 'max-width',
     values: [
-      { name: 'max-w-[none|xs|sm|md|lg|xl|2xl|3xl|4xl|5xl|6xl|full]' },
-      { name: 'max-w-screen-[sm|md|lg|xl]' },
+      { name: 'max-w-[0|none|xs|sm|md|lg|xl|2xl|3xl|4xl|5xl|6xl|7xl|full|min|max|prose]' },
+      { name: 'max-w-screen-[sm|md|lg|xl|2xl]' },
     ],
   }, {
     title: 'Height',
     permalink: 'height',
     values: [
-      { name: 'h-[0|1|2|3|4|5|6|10|12|16|20|24|32|40|48|56|64|auto|px|full|screen]' },
+      { name: 'h-[0|0.5|1|1.5|2|2.5|3|3.5|4|5|6|7|8|9|10|11|12|14|16|20|24|28|32|36|40|44|48|52|56|60|64|72|80|96|px]' },
+      { name: 'h-[1/2|1/3|2/3|1/4|2/4|3/4]' },
+      { name: 'h-[1/5|2/5|3/5|4/5]' },
+      { name: 'h-[1/6|2/6|3/6|4/6|5/6]' },
+      { name: 'h-[full|screen|auto]' },
     ],
   }, {
     title: 'Min-Height',
     permalink: 'min-height',
     values: [
-      { name: 'min-h-[0,full,screen]' },
+      { name: 'min-h-[0|full|screen]' },
     ],
   }, {
     title: 'Max-Height',
     permalink: 'max-height',
     values: [
-      { name: 'max-h-[full,screen]' },
-
-
+      { name: 'max-h-[0|0.5|1|1.5|2|2.5|3|3.5|4|5|6|7|8|9|10|11|12|14|16|20|24|28|32|36|40|44|48|52|56|60|64|72|80|96|px]' },
+      { name: 'max-h-[full|screen]' },
     ],
   }, {
     title: 'Font Family',
