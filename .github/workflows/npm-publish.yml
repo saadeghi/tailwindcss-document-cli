@@ -24,8 +24,6 @@ jobs:
             file-url: https://unpkg.com/tailwindcss-document-cli@latest/package.json
             static-checking: localIsNew
       - run: npm install
-      - name: build
-        run: npm run build
       - name: publish
         run: npm publish
         if: steps.check.outputs.changed == 'true'
