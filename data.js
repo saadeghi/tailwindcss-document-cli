@@ -501,7 +501,7 @@ module.exports = [
     title: 'Whitespace',
     permalink: 'whitespace',
     values: [
-      { name: 'whitespace-[normal|no-wrap|pre|pre-line|pre-wrap]' },
+      { name: 'whitespace-[normal|nowrap|pre|pre-line|pre-wrap]' },
     ],
   }, {
     title: 'Word Break',
